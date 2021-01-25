@@ -1,4 +1,4 @@
-var API_KEY = "c941a4aa134e49e4fb4818bb927fe033";
+var API_KEY = "API-Code";
 
 var getWeather = function (event) {
   var city = document.querySelector("#weather").value;
